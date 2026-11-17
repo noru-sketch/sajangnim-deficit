@@ -1,0 +1,54 @@
+{
+  "gateway": "https://api.baze.co/v1/gateway",
+  "generatedAt": "2026-11-17T03:03:49.393Z",
+  "assets": [
+    {
+      "name": "shop",
+      "path": "public/media/shop.jpg",
+      "model": "bytedance/seedream-5-pro",
+      "credits": 90,
+      "sha256": "3ca5351314d883e04feebfac695f95477aed35c7f880193e3133e54febc98991",
+      "prompt": "A delightful premium educational game illustration of a tiny neighborhood convenience store coffee corner. Warm ivory background, pastel mint refrigerator with rows of brown bottled coffee, small rounded wood checkout counter, an open doorway and one little green plant. Soft 3D clay illustration, polished friendly tactile toy-like forms, warm daylight, gentle soft shadows. Front three-quarter view, compact composition with generous cream blank margins, no people, no text, no letters, no logos, no watermarks. Modern Korean learning app, restrained mint, apricot, coffee brown palette. Entire shop fits in frame. Landscape composition."
+    },
+    {
+      "name": "coffee",
+      "path": "public/media/coffee.jpg",
+      "model": "bytedance/seedream-5-pro",
+      "credits": 90,
+      "sha256": "b9363b3dbf1633083c226f2a0cedc705b34e2ae4ba6a198d2c764af1f7407c99",
+      "prompt": "Single adorable bottled iced coffee for a friendly Korean accounting learning game. A small rounded amber coffee bottle with cream paper band and pastel mint cap, tiny happy face on the band without any letters. Soft premium clay 3D illustration, clean warm ivory solid background, subtle contact shadow, isolated centered object with generous margin. Warm daylight, muted caramel brown and mint palette. No text, numbers, logos, watermarks, no other objects. Square composition."
+    },
+    {
+      "name": "tap",
+      "path": "public/media/tap.mp3",
+      "model": "elevenlabs-sfx",
+      "credits": "3.0",
+      "sha256": "550bd41732cbef7bba13276e499764c218e1d4c9dddc093e88cad0be1f18d5de",
+      "prompt": "One tiny soft bubble pop click for selecting a learning game tile. Warm rounded tactile sound, dry and very short, no voice, no music, no background noise."
+    },
+    {
+      "name": "correct",
+      "path": "public/media/correct.mp3",
+      "model": "elevenlabs-sfx",
+      "credits": "6.0",
+      "sha256": "e35dd2be866f7ecc75d91883804e56649ab2d0da4cd403d0193b0718dddc23cc",
+      "prompt": "One gentle cheerful success sound for a friendly learning game. Two soft ascending wooden marimba notes with a tiny bright coin sparkle. Short restrained warm positive reward, no voice, no music bed."
+    },
+    {
+      "name": "retry",
+      "path": "public/media/retry.mp3",
+      "model": "elevenlabs-sfx",
+      "credits": "3.0",
+      "sha256": "7f18eaf0fcfdce02f3962844ed0caaaae37a331d966bf2b41941046d952bcce0",
+      "prompt": "One very gentle low wooden plop for trying again in a learning game. Friendly curious sound, never harsh or alarming, no buzzer, no voice, no background music."
+    },
+    {
+      "name": "theme",
+      "path": "public/media/theme.mp3",
+      "model": "lyria-3-clip-preview",
+      "credits": "40.0",
+      "sha256": "1a12e28e93672961c3583b8121882d1578a8610d639c7b294a1dedfbe09259c5",
+      "prompt": "A warm light instrumental loop for a cozy Korean convenience store learning game. Soft electric piano, mellow marimba, gentle plucked bass and very quiet shaker, 86 BPM. Friendly curious and calm, with a small recurring melody and even dynamics. No vocals, no lyrics, no spoken words, no dramatic build. Clean ending suitable for looping, around thirty seconds."
+    }
+  ]
+}
